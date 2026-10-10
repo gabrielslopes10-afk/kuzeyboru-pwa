@@ -1,7 +1,7 @@
 // KUZEYBORU PWA shell — caches only the shell (this page + icons + manifest).
 // The actual dashboard data always loads live from the Apps Script backend
 // inside the iframe, so it is never cached here.
-const CACHE_NAME = 'kzb-shell-v1';
+const CACHE_NAME = 'kzb-shell-v2';
 const SHELL_ASSETS = [
   './',
   './index.html',

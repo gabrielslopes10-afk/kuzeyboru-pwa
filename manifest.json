@@ -1,12 +1,12 @@
 {
-  "name": "KUZEYBORU Monitoramento",
-  "short_name": "KUZEYBORU",
-  "description": "Monitoramento de atletas KUZEYBORU 26/27 — wellness, carga de treino, Polar e prontidão.",
+  "name": "Kuzeyboru Performance",
+  "short_name": "Kuzeyboru",
+  "description": "Kuzeyboru Performance — athlete monitoring: wellness, training load, Polar and readiness.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "background_color": "#0d1b3e",
+  "background_color": "#ffffff",
   "theme_color": "#0d1b3e",
   "icons": [
     { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
